@@ -1,0 +1,3 @@
+# The signed catalog and its signature are byte-exact; no line-ending conversion.
+*.json -text
+*.sig -text
